@@ -1,0 +1,50 @@
+﻿/* Wrapping element */
+/* Set some basic padding to keep content from hitting the edges */
+.body-content {
+    margin-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-top: 100px;
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px #888888;
+    position: relative;
+    animation-name: carregaLogin;
+    animation-duration: 1s;
+    animation-delay: 0s;
+}
+
+/* Set widths on the form inputs since otherwise they're 100% wide */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+/* Responsive: Portrait tablets and up */
+@media screen and (min-width: 768px) {
+    .body-content {
+        padding: 3rem;
+    }
+}
+
+body {
+    background-image: url("../Images/background.jpeg");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80vh;
+    background-position: center;
+}
+
+
+@keyframes carregaLogin {
+    0% {
+        margin-top: 0;
+    }
+
+    100% {
+        margin-top: 100px;
+    }
+}

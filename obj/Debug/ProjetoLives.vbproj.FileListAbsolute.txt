@@ -1,0 +1,238 @@
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\ProjetoLives.dll.config
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\ProjetoLives.dll
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\ProjetoLives.pdb
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\WebForms_Basic.xml
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\roslyn\csc.exe
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\roslyn\csc.exe.config
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\roslyn\csc.rsp
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\roslyn\csi.exe
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\roslyn\csi.exe.config
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\roslyn\csi.rsp
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\roslyn\System.AppContext.dll
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\roslyn\System.Console.dll
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\roslyn\System.IO.Compression.dll
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\roslyn\System.Net.Http.dll
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\roslyn\System.ValueTuple.dll
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\roslyn\vbc.exe
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\roslyn\vbc.exe.config
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\roslyn\vbc.rsp
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\roslyn\VBCSCompiler.exe
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\Antlr3.Runtime.dll
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\Newtonsoft.Json.dll
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\System.Web.Optimization.dll
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\WebGrease.dll
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\System.Web.Optimization.xml
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\Newtonsoft.Json.xml
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\Antlr3.Runtime.pdb
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\obj\Debug\ProjetoLives.vbproj.AssemblyReference.cache
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\obj\Debug\ProjetoLives.Resources.resources
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\obj\Debug\ProjetoLives.vbproj.GenerateResource.cache
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\obj\Debug\ProjetoLives.vbproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\obj\Debug\ProjetoLives.vbproj.CopyComplete
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\obj\Debug\ProjetoLives.dll
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\obj\Debug\WebForms_Basic.xml
+C:\Users\Carlos\Desktop\Curso\ProjetoLives\obj\Debug\ProjetoLives.pdb
+C:\Users\Carlos\Desktop\ProjetoLives\bin\ProjetoLives.dll.config
+C:\Users\Carlos\Desktop\ProjetoLives\bin\ProjetoLives.dll
+C:\Users\Carlos\Desktop\ProjetoLives\bin\ProjetoLives.pdb
+C:\Users\Carlos\Desktop\ProjetoLives\bin\WebForms_Basic.xml
+C:\Users\Carlos\Desktop\ProjetoLives\bin\roslyn\csc.exe
+C:\Users\Carlos\Desktop\ProjetoLives\bin\roslyn\csc.exe.config
+C:\Users\Carlos\Desktop\ProjetoLives\bin\roslyn\csc.rsp
+C:\Users\Carlos\Desktop\ProjetoLives\bin\roslyn\csi.exe
+C:\Users\Carlos\Desktop\ProjetoLives\bin\roslyn\csi.exe.config
+C:\Users\Carlos\Desktop\ProjetoLives\bin\roslyn\csi.rsp
+C:\Users\Carlos\Desktop\ProjetoLives\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Carlos\Desktop\ProjetoLives\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Carlos\Desktop\ProjetoLives\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Carlos\Desktop\ProjetoLives\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Carlos\Desktop\ProjetoLives\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Carlos\Desktop\ProjetoLives\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Carlos\Desktop\ProjetoLives\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Carlos\Desktop\ProjetoLives\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Carlos\Desktop\ProjetoLives\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Carlos\Desktop\ProjetoLives\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Carlos\Desktop\ProjetoLives\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Carlos\Desktop\ProjetoLives\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Carlos\Desktop\ProjetoLives\bin\roslyn\System.AppContext.dll
+C:\Users\Carlos\Desktop\ProjetoLives\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Carlos\Desktop\ProjetoLives\bin\roslyn\System.Console.dll
+C:\Users\Carlos\Desktop\ProjetoLives\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Carlos\Desktop\ProjetoLives\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Carlos\Desktop\ProjetoLives\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Carlos\Desktop\ProjetoLives\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Carlos\Desktop\ProjetoLives\bin\roslyn\System.IO.Compression.dll
+C:\Users\Carlos\Desktop\ProjetoLives\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Carlos\Desktop\ProjetoLives\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Carlos\Desktop\ProjetoLives\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Carlos\Desktop\ProjetoLives\bin\roslyn\System.Net.Http.dll
+C:\Users\Carlos\Desktop\ProjetoLives\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Carlos\Desktop\ProjetoLives\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Carlos\Desktop\ProjetoLives\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Carlos\Desktop\ProjetoLives\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Carlos\Desktop\ProjetoLives\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Carlos\Desktop\ProjetoLives\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Carlos\Desktop\ProjetoLives\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Carlos\Desktop\ProjetoLives\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Carlos\Desktop\ProjetoLives\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Carlos\Desktop\ProjetoLives\bin\roslyn\System.ValueTuple.dll
+C:\Users\Carlos\Desktop\ProjetoLives\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Carlos\Desktop\ProjetoLives\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Carlos\Desktop\ProjetoLives\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Carlos\Desktop\ProjetoLives\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Carlos\Desktop\ProjetoLives\bin\roslyn\vbc.exe
+C:\Users\Carlos\Desktop\ProjetoLives\bin\roslyn\vbc.exe.config
+C:\Users\Carlos\Desktop\ProjetoLives\bin\roslyn\vbc.rsp
+C:\Users\Carlos\Desktop\ProjetoLives\bin\roslyn\VBCSCompiler.exe
+C:\Users\Carlos\Desktop\ProjetoLives\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Carlos\Desktop\ProjetoLives\bin\Antlr3.Runtime.dll
+C:\Users\Carlos\Desktop\ProjetoLives\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Carlos\Desktop\ProjetoLives\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Carlos\Desktop\ProjetoLives\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Carlos\Desktop\ProjetoLives\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Carlos\Desktop\ProjetoLives\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Carlos\Desktop\ProjetoLives\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Carlos\Desktop\ProjetoLives\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Carlos\Desktop\ProjetoLives\bin\Newtonsoft.Json.dll
+C:\Users\Carlos\Desktop\ProjetoLives\bin\System.Web.Optimization.dll
+C:\Users\Carlos\Desktop\ProjetoLives\bin\WebGrease.dll
+C:\Users\Carlos\Desktop\ProjetoLives\bin\System.Web.Optimization.xml
+C:\Users\Carlos\Desktop\ProjetoLives\bin\Newtonsoft.Json.xml
+C:\Users\Carlos\Desktop\ProjetoLives\bin\Antlr3.Runtime.pdb
+C:\Users\Carlos\Desktop\ProjetoLives\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Carlos\Desktop\ProjetoLives\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Carlos\Desktop\ProjetoLives\obj\Debug\ProjetoLives.vbproj.AssemblyReference.cache
+C:\Users\Carlos\Desktop\ProjetoLives\obj\Debug\ProjetoLives.Resources.resources
+C:\Users\Carlos\Desktop\ProjetoLives\obj\Debug\ProjetoLives.vbproj.GenerateResource.cache
+C:\Users\Carlos\Desktop\ProjetoLives\obj\Debug\ProjetoLives.vbproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\ProjetoLives\obj\Debug\ProjetoLives.vbproj.CopyComplete
+C:\Users\Carlos\Desktop\ProjetoLives\obj\Debug\ProjetoLives.dll
+C:\Users\Carlos\Desktop\ProjetoLives\obj\Debug\WebForms_Basic.xml
+C:\Users\Carlos\Desktop\ProjetoLives\obj\Debug\ProjetoLives.pdb
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\ProjetoLives.dll.config
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\ProjetoLives.dll
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\ProjetoLives.pdb
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\WebForms_Basic.xml
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\roslyn\csc.exe
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\roslyn\csc.exe.config
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\roslyn\csc.rsp
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\roslyn\csi.exe
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\roslyn\csi.exe.config
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\roslyn\csi.rsp
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\roslyn\System.AppContext.dll
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\roslyn\System.Console.dll
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\roslyn\System.IO.Compression.dll
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\roslyn\System.Net.Http.dll
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\roslyn\System.ValueTuple.dll
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\roslyn\vbc.exe
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\roslyn\vbc.exe.config
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\roslyn\vbc.rsp
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\roslyn\VBCSCompiler.exe
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\Antlr3.Runtime.dll
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\Microsoft.Practices.EnterpriseLibrary.Logging.Database.dll
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\Newtonsoft.Json.dll
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\System.Web.Optimization.dll
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\WebGrease.dll
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\System.Web.Optimization.xml
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\Newtonsoft.Json.xml
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\Antlr3.Runtime.pdb
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\obj\Debug\ProjetoLives.Resources.resources
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\obj\Debug\ProjetoLives.vbproj.GenerateResource.cache
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\obj\Debug\ProjetoLives.vbproj.CoreCompileInputs.cache
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\obj\Debug\ProjetoLives.vbproj.CopyComplete
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\obj\Debug\ProjetoLives.dll
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\obj\Debug\WebForms_Basic.xml
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\obj\Debug\ProjetoLives.pdb
+C:\Users\Marcelo Peruzzo\Desktop\Dev\ProjetoLives\obj\Debug\ProjetoLives.vbproj.AssemblyReference.cache
